@@ -64,7 +64,7 @@ section {
 /* Hero Section */
 header {
     height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.6)), url('images/bg.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.6)), url('people.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
